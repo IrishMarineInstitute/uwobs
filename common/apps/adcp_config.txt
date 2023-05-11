@@ -1,0 +1,35 @@
+#
+# Teledyne commands will be sent to the device if
+# if the configure_on_startup field is set to "true" in
+# adcp_config.csv
+#
+# In this file, all lines are commands except blank lines, or
+# lines beginning with '#'
+#
+CF11110
+PD0
+EA0
+EB0
+ED0
+ES35
+EX11111
+EZ1111101
+WA50
+WB0
+WD111100000
+WF100
+WN29
+WP50
+WS100
+WV175
+HD111000000
+HB5
+HP2400
+HR01000000
+HT00000050
+TE00010000
+TP000100
+CK
+CR0
+PS0
+CS

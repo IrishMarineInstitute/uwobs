@@ -1,0 +1,5 @@
+*.pyc
+*.orig
+*.tmp
+common/apps/catserial/collect_audio.py
+

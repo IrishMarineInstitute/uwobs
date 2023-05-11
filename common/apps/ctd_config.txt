@@ -1,0 +1,15 @@
+#
+# Idronaut commands will be sent to the device if
+# if the configure_on_startup field is set to "true" in
+# ctd_config.csv
+#
+# In this file, all lines are commands except blank lines, or
+# lines beginning with '#'
+#
+# {timestamp} will be replaced by the current date and time.
+#
+TS {timestamp}
+CT
+1
+1
+1
