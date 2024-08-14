@@ -1,4 +1,5 @@
 reference,type,manufacturer,id,server,start_date,end_date
 hydrophone0,hydrophone,OceanSonics,SBF1323,172.16.255.254,2020-08-27,2021-08-25
 hydrophone0,hydrophone,OceanSonics,SBF1622,172.16.255.254,2021-08-26,2021-11-25
-hydrophone0,hydrophone,OceanSonics,SBF1622,172.16.255.254,2023-01-18,
+hydrophone0,hydrophone,OceanSonics,SBF1622,172.16.255.254,2023-01-18,2023-08-30
+hydrophone0,hydrophone,OceanSonics,SBF1323,172.16.255.254,2024-07-15,
