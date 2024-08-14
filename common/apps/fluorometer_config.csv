@@ -2,4 +2,5 @@ reference,type,manufacturer,id,moxa_server,moxa_port,chl_scale_factor,chl_dark_c
 fluorometer0,fluorometer,seabird,WL-ECO-FLNTU-4476,172.16.255.5,951,0.0178,48,0.0529,41,2019-09-10T00:00:00Z,2020-08-28T12:00:00Z
 fluorometer0,fluorometer,seabird,WL-ECO-FLNTU-3137,172.16.255.5,951,0.0185,50,0.063,50,2020-08-28T14:00:00Z, 2021-08-25T07:00:00Z
 fluorometer0,fluorometer,seabird,WL-ECO-FLNTU-4476,172.16.255.5,951,0.0192,48,0.0508,38,2021-08-26T01:00:00Z,2021-12-19T23:59:00Z
-fluorometer0,fluorometer,seabird,WL-ECO-FLNTU-4476,172.16.255.5,951,0.0185,48,0.0523,38,2023-01-17T08:00:00Z,
+fluorometer0,fluorometer,seabird,WL-ECO-FLNTU-4476,172.16.255.5,951,0.0185,48,0.0523,38,2023-01-17T08:00:00Z,2023-02-09T23:59:00Z
+fluorometer0,fluorometer,seabird,WL-ECO-FLNTU-3137,172.16.255.5,951,0.0210,50,0.0484,50,2024-07-15T08:00:00Z,
