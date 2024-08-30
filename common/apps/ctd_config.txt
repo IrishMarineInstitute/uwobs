@@ -15,6 +15,8 @@
 # 4: Continuous acquisition mode
 # 10000: 1 measurement every 10000ms
 # 1: press any key to continue
+<CR>
+<CR>
 1
 <CR>
 4
