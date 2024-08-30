@@ -7,10 +7,15 @@
 # lines beginning with '#'
 #
 # {timestamp} will be replaced by the current date and time.
+# <CR> indicates a line break command.
 #
 TS {timestamp}
+<CR>
 CT
+<CR>
 1
+<CR>
 4
 10000
+<CR>
 1
