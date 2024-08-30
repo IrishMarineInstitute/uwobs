@@ -7,19 +7,27 @@
 # lines beginning with '#'
 #
 # {timestamp} will be replaced by the current date and time.
-# <CR> indicates a line break command '\r'.
+# <CR> indicates a carriage return command '\r'.
+# <LF> indicates a line feed command '\n'.
 #
+# Verbose command sequence
+#TS {timestamp}
+#<CR>
+#CT
+#<CR>
+## 1: Acquisition mode
+#1
+#<CR>
+## 4: Continuous acquisition mode
+#4
+## 10000: 1 measurement every 10000ms
+#10000
+#<CR>
+## 1: press any key to continue
+#1
+
+# Non-verbose command sequence
 TS {timestamp}
-<CR>
-CT
-<CR>
-# 1: Acquisition mode
-1
-<CR>
-# 4: Continuous acquisition mode
-4
-# 10000: 1 measurement every 10000ms
-10000
-<CR>
-# 1: press any key to continue
-1
+<LF>
+CO 10000
+<LF>
