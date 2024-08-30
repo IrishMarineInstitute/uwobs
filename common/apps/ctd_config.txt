@@ -29,5 +29,5 @@
 # Non-verbose command sequence
 TS {timestamp}
 <LF>
-CO 10000
+CO 1000
 <LF>
