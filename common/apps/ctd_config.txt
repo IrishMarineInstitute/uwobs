@@ -10,6 +10,8 @@
 # <CR> indicates a carriage return command '\r'.
 # <LF> indicates a line feed command '\n'.
 #
+# In non-verbose, Data Format can be changed with DF command (00 = ASCII with engineered values, default). See documentation for more info.
+#
 # Verbose command sequence
 # 1: Acquisition mode
 # 4: Continuous acquisition mode
