@@ -29,3 +29,4 @@ TS {timestamp}
 <LF>
 CO 10000
 <LF>
+<CTRLC>
