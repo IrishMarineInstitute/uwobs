@@ -1,4 +1,4 @@
 reference,type,manufacturer,id,moxa_server,moxa_port,moxa_command_port,configure_on_startup,start_date,end_date
 adcp0,adcp,teledyne,TRDI-WHB600Hz-10457,172.16.255.8,952,968,true,2019-09-11,2021-11-25
 adcp0,adcp,teledyne,TRDI-WHB600Hz-10457,172.16.255.8,952,968,true,2023-01-17,2023-09-31
-adcp0,adcp,Nortek,Signature500Hz-104530,172.16.255.8,952,968,false,2024-07-17,
+adcp0,adcp,Nortek,Signature500Hz-104530,172.16.255.8,952,968,true,2024-07-17,
