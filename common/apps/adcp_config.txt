@@ -8,20 +8,15 @@
 #
 # Break: resets to confirmation mode, or command mode
 @@@@@@
-<CR>
-<LF>
+<CRLF>
 K1W%!Q
-<CR>
-<LF>
+<CRLF>
 K1W%!Q
-<CR>
-<LF>
+<CRLF>
 # Forcing command mode
 MC
-<CR>
-<LF>
+<CRLF>
 # Configuration
 # Start sampling
 START
-<CR>
-<LF>
+<CRLF>
