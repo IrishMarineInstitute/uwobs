@@ -28,18 +28,30 @@
 
 # Non-verbose command sequence
 # Stopping current acquisition
-# Szitching off probe
-# CTRL-C to wake it up
+# Switching off probe
+# SO to wake it up
 # Setting clock
 # Configuring continuous acquisition, freq. 10000ms. Probe will auto swicth off after that command
-# CTRL-C to wake it up
+# LF to wake it up
 SO
 <LF>
+<WAIT 1000>
+<LF>
+<WAIT 1000>
+<LF>
+<WAIT 2000>
 KP
 <LF>
-<CTRLC>
-TS {timestamp}
+<WAIT 2000>
 <LF>
+# Restart
+<WAIT 5000>
+SO
+<LF>
+TS {timestamp|DD-MM-YYYY HH:mm:ss}
+<LF>
+<WAIT 1000>
 CO 10000
 <LF>
-<CTRLC>
+<WAIT 2000>
+<LF>
